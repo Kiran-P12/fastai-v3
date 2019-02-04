@@ -8,10 +8,10 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_name = 'export.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&confirm=kJ1W&id=1NoZWSEL4JtEtR-Ai4Qh-CjvpH594clFz'
+export_file_name = 'ISD.pkl'
 
-classes = ['black', 'grizzly', 'teddys']
+classes = ["airport_inside","artstudio","auditorium","bakery","bar","bathroom","bedroom","bookstore","bowling","buffet","casino","children_room","church_inside","classroom","cloister","closet","clothingstore","computerroom","concert_hall","corridor","deli","dentaloffice","dining_room","elevator","fastfood_restaurant","florist","gameroom","garage","greenhouse","grocerystore","gym","hairsalon","hospitalroom","inside_bus","inside_subway","jewelleryshop","kindergarden","kitchen","laboratorywet","laundromat","library","livingroom","lobby","locker_room","mall","meeting_room","movietheater","museum","nursery","office","operating_room","pantry","poolinside","prisoncell","restaurant","restaurant_kitchen","shoeshop","stairscase","studiomusic","subway","toystore","trainstation","tv_studio","videostore","waitingroom","warehouse","winecellar"]
 path = Path(__file__).parent
 
 app = Starlette()
