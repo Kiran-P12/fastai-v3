@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://dl-web.dropbox.com/get/export3.pkl?_download_id=049794340208792811037736464371663682786903053153158662158347431712&_notify_domain=www.dropbox.com&_subject_uid=1913112176&dl=1&w=AAC4b65C60vvQ0d42QgLFZDgle7I6KVazI1Vk-T-cl0Rmg'
+export_file_url = 'https://www.dropbox.com/s/uc8qdok1uvs7y05/export3.pkl?dl=1'
 export_file_name = 'export3.pkl'
 
 classes = ["airport_inside","artstudio","auditorium","bakery","bar","bathroom","bedroom","bookstore","bowling","buffet","casino","children_room","church_inside","classroom","cloister","closet","clothingstore","computerroom","concert_hall","corridor","deli","dentaloffice","dining_room","elevator","fastfood_restaurant","florist","gameroom","garage","greenhouse","grocerystore","gym","hairsalon","hospitalroom","inside_bus","inside_subway","jewelleryshop","kindergarden","kitchen","laboratorywet","laundromat","library","livingroom","lobby","locker_room","mall","meeting_room","movietheater","museum","nursery","office","operating_room","pantry","poolinside","prisoncell","restaurant","restaurant_kitchen","shoeshop","stairscase","studiomusic","subway","toystore","trainstation","tv_studio","videostore","waitingroom","warehouse","winecellar"]
