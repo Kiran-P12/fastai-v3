@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://doc-0c-3k-docs.googleusercontent.com/docs/securesc/k53l0q7gvllq1mmu3thvvqcst6p5a73t/jvbd9rh6u7d79vd1gp03f0qafi5euhb6/1549267200000/08764929331670574508/03223285662960652704/1Sr78EkvbB_le793OXZzSzJmqppoKk7Mo?e=download'
+export_file_url = 'https://uc3e985ea6123c6a05fa9235c5f2.dl.dropboxusercontent.com/cd/0/get/AaswHrW2fJ2QIZFgvey8VHiH6sPP_0wDVXvfB4wURPeGZPWufCF8tRbhZX-E7m3YBUFoz5kogo7y8cUGqmIMW58_qHnTIdwAcvi1WfepWzyzaw/file?_download_id=9237534324805974063934836866382838736398474274397906351951304023&_notify_domain=www.dropbox.com&dl=1'
 export_file_name = 'export.pkl'
 
 classes = ["airport_inside","artstudio","auditorium","bakery","bar","bathroom","bedroom","bookstore","bowling","buffet","casino","children_room","church_inside","classroom","cloister","closet","clothingstore","computerroom","concert_hall","corridor","deli","dentaloffice","dining_room","elevator","fastfood_restaurant","florist","gameroom","garage","greenhouse","grocerystore","gym","hairsalon","hospitalroom","inside_bus","inside_subway","jewelleryshop","kindergarden","kitchen","laboratorywet","laundromat","library","livingroom","lobby","locker_room","mall","meeting_room","movietheater","museum","nursery","office","operating_room","pantry","poolinside","prisoncell","restaurant","restaurant_kitchen","shoeshop","stairscase","studiomusic","subway","toystore","trainstation","tv_studio","videostore","waitingroom","warehouse","winecellar"]
